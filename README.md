@@ -1,5 +1,9 @@
 # Decision-Tree-and-Naive-Bayes-Classification
-for statistical learning spring 2023
+###statistical learning spring 2023
+Using decision trees and naive bayes to classify maternal health risk using the dataset from UCI Machine Learning Repository. (archive.ics.uci.edu/ml/datasets/Maternal+Health+Risk+Data+Set)
+The data was collected from different hospitals, community clinics, and maternal health centers from the rural areas of Bangladesh through the IoT based risk monitoring system. 
+
+
 | Variable | Description |
 |-----:|---------------|
 |     Age| Any ages in years when a woman is pregnant              |
