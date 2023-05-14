@@ -2,8 +2,9 @@
 **statistical learning spring 2023**
 
 Using decision trees and naive bayes to classify maternal health risk using the dataset from UCI Machine Learning Repository. [Dataset Link](archive.ics.uci.edu/ml/datasets/Maternal+Health+Risk+Data+Set)
-The data was collected from different hospitals, community clinics, and maternal health centers from the rural areas of Bangladesh through the IoT based risk monitoring system. 
 
+The data was collected from different hospitals, community clinics, and maternal health centers from the rural areas of Bangladesh through the IoT based risk monitoring system. 
+See the inlcuded report PDF where I include details of the project and my output.
 
 | Variable | Description |
 |-----:|---------------|
