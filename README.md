@@ -12,5 +12,6 @@ See the inlcuded report PDF where I include details of the project and my output
 |     SystolicBP| Upper value of Blood Pressure in mmHg              |
 |     DiastolicBP| Lower value of Blood Pressure in mmHg              |
 |     BS| Blood glucose levels in terms of molar concentration, mmol/L              |
+|     BodyTemp| Body Temperature in F              |
 |     HeartRate| Normal heart rate in beats per minute              |
 |     Risk Level| Predicted Risk Intensity level during pregnancy              |
